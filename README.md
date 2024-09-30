@@ -24,22 +24,22 @@ Opsi 2 merupakan menu menghapus alat musik, untuk menghapus alat musik dari daft
 ## Menu Lihat Daftar Alat Musik Yang Disewa
 ![image](https://github.com/user-attachments/assets/35deb35d-3a50-4f1c-ad48-986da5dc205f)
 
-Opsi 3 merupakan menu lihat daftar alat musik yang dan akan ditampilkan nama, jenis dan harga sewa alat musik 
+Opsi 3 merupakan menu lihat daftar alat musik yang dan akan ditampilkan nama, jenis dan harga sewa alat musik.
 
 ## Menu Lihat Total Alat Musik Yang Disewa
 ![image](https://github.com/user-attachments/assets/466cfc9f-c929-4a10-ae2d-c2599a46987f)
 
-Opsi 4 merupakan menu melihat total alat musik yang disewa dan akan menampilkan total alat musik 
+Opsi 4 merupakan menu melihat total alat musik yang disewa dan akan menampilkan total alat musik. 
 
 ## Menu Update Alat Musik
 ![image](https://github.com/user-attachments/assets/7c459fac-b217-4985-8b42-b96c42fc1069)
 
-Opsi 5 merupakan menu untuk meng-update alat musik,user diminta untuk menginputkan nama, jenis dan harga sewa baru setelah itu alat musik berhasil di update 
+Opsi 5 merupakan menu untuk meng-update alat musik,user diminta untuk menginputkan nama, jenis dan harga sewa baru setelah itu alat musik berhasil di update. 
 
 ## Menu Keluar Program
 ![image](https://github.com/user-attachments/assets/bab61575-db52-4271-bf85-b0b00da39b29)
 
-Opsi 6 menu untuk keluar dari program
+Opsi 6 menu untuk keluar dari program.
 
 
 
