@@ -9,7 +9,7 @@ Sistem penyewaan alat musik mengalami kesulitan dalam mengelola transaksi sewa s
 
 ![image](https://github.com/user-attachments/assets/202452d5-91e0-40c9-916d-e0057ae2f101)
 
-Gambar ini merupakan tampilan utama dari program sistem manajemen sewa alat musik dimana terdapat 6 menu ada menu untuk menambahkan alat musik, menu menghapus alat musik, menu melihat daftar alat musik yang disewa, menu melihat total alat musik yang disewa, menu update untuk memperbarui alat musik, dan menu keluar dari program
+Gambar ini merupakan tampilan utama dari program sistem manajemen sewa alat musik dimana terdapat 6 menu ada menu untuk menambahkan alat musik, menu menghapus alat musik, menu melihat daftar alat musik yang disewa, menu melihat total alat musik yang disewa, menu update untuk memperbarui alat musik, dan menu keluar dari program.
 
 ## Menu Tambah Alat Musik
 ![image](https://github.com/user-attachments/assets/30128373-c783-4a7f-9d14-5f7297fc789f)
@@ -19,7 +19,7 @@ Opsi 1 merupakan menu untuk menambahkan alat musik, user diminta untuk menginput
 ## Menu Hapus Alat Musik
 ![image](https://github.com/user-attachments/assets/71e39dd3-3eef-4e6d-8b0a-fb2d00c6d7a9)
 
-Opsi 2 merupakan menu menghapus alat musik, untuk menghapus alat musik dari daftar user diminta untuk menginputkan nama alat musik yang ingin dihapus.
+Opsi 2 merupakan menu menghapus alat musik, untuk menghapus alat musik dari daftar, user diminta untuk menginputkan nama alat musik yang ingin dihapus.
 
 ## Menu Lihat Daftar Alat Musik Yang Disewa
 ![image](https://github.com/user-attachments/assets/35deb35d-3a50-4f1c-ad48-986da5dc205f)
